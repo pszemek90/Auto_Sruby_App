@@ -63,8 +63,9 @@ namespace Auto_Sruby_App
 					}
 					group.Modify();
 					partsBoltedAfter = group.GetOtherPartsToBolt().Count;
-			} while (partsBoltedBefore != partsBoltedAfter) ;
-		}
+					group.CutLength = boltLength + 20;
+				} while (partsBoltedBefore != partsBoltedAfter);
+			}
 			model.CommitChanges();
 		}
 
