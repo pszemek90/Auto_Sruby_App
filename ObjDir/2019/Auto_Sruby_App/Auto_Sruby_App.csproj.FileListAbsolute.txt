@@ -1,0 +1,10 @@
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\Auto_Sruby_App\bin\Debug\Auto_Sruby_App.exe.config
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\Auto_Sruby_App\bin\Debug\Auto_Sruby_App.exe
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\Auto_Sruby_App\bin\Debug\Auto_Sruby_App.pdb
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.csprojAssemblyReference.cache
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.Form1.resources
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.Properties.Resources.resources
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.csproj.GenerateResource.cache
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.csproj.CoreCompileInputs.cache
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.exe
+C:\Users\p.miekos\source\repos\Auto_Sruby_App\ObjDir\2019\Auto_Sruby_App\Auto_Sruby_App.pdb
