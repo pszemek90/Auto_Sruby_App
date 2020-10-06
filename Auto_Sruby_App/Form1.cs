@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using Tekla.Structures.Geometry3d;
 using Tekla.Structures.Model;
+using Tekla.Structures.Model.Operations;
 using Tekla.Structures.Model.UI;
 
 namespace Auto_Sruby_App
@@ -72,7 +73,13 @@ namespace Auto_Sruby_App
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			connectParts();
+			try
+			{
+				connectParts();
+			} catch(Exception ex)
+			{
+				Operation.DisplayPrompt("Należy wybrać tylko śruby!");
+			}
 		}
 	}
 }
