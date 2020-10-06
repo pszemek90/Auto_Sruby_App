@@ -56,6 +56,7 @@ namespace Auto_Sruby_App
 							group.AddOtherPartToBolt(part);
 						}
 					}
+					group.BoltStandard = "4017-8.8";
 					group.GetReportProperty("LENGTH", ref boltLength);
 					if (group.BoltStandard == "4017-8.8" && boltLength % 10 != 0)
 					{
