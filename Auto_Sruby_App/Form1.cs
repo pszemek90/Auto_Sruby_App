@@ -58,6 +58,7 @@ namespace Auto_Sruby_App
 						}
 					}
 					group.BoltStandard = "4017-8.8";
+					group.Modify();
 					group.GetReportProperty("LENGTH", ref boltLength);
 					if (group.BoltStandard == "4017-8.8" && boltLength % 10 != 0)
 					{
@@ -78,7 +79,7 @@ namespace Auto_Sruby_App
 				connectParts();
 			} catch(Exception ex)
 			{
-				Operation.DisplayPrompt("Należy wybrać tylko śruby!");
+				Operation.DisplayPrompt("Krzyś, ty chuju, tylko śruby!");
 			}
 		}
 	}
